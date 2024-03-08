@@ -1,5 +1,7 @@
 # jublilant-octo-system
 This project aims to meet accessibility standards by following the specific criteria outlined below.
+deployed url https://github.com/coding-boot-camp/urban-octo-telegram
+jublilant-octo-system url 
 ##Table of contents
 -[SEMANTIC ELEMENTS]
 semantic elements play a crucial role in making a web content accessible to all users, icluding those using assistive technologies such as screen readers.It also helps the search engine and other automated tools understand the structure and meaning of your content.
